@@ -99,8 +99,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnhVu-NAV&theme=radical" alt="GitHub Streak Stats" width="50%"/>
 </p>
 
-![](https://raw.githubusercontent.com/AnhVu-NAV/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnhVu-NAV/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/AnhVu-NAV/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AnhVu-NAV/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
 
 ---
 
